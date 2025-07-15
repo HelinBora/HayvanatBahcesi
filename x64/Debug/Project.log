@@ -1,0 +1,9 @@
+﻿  Aslan.cpp
+  Hayvan.cpp
+  HayvanatBahcesi.cpp
+  Kartal.cpp
+  MainProgram.cpp
+C:\Users\helin bora\Desktop\Programlama Proje\C++ Projesi\MainProgram.cpp(78,20): warning C4930: 'Hayvan HayvanDuzenle(std::string,std::string,int)': prototipli işlev çağrılmadı (değişken bir tanım mı isteniyordu?)
+  Zebra.cpp
+  Kod Üretiliyor...
+  Project.vcxproj -> C:\Users\helin bora\Desktop\Programlama Proje\C++ Projesi\x64\Debug\Project.exe
